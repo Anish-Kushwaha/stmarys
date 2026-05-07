@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">St. Mary's School campus image</title>
+  <desc id="desc">Illustrated campus photo replacement for St. Mary's School, Buxar.</desc>
+  <defs><linearGradient id="sky" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#dbeafe"/><stop offset="1" stop-color="#eff6ff"/></linearGradient></defs>
+  <rect width="1200" height="760" fill="url(#sky)"/>
+  <circle cx="985" cy="120" r="78" fill="#f4b400" opacity=".85"/>
+  <rect x="110" y="290" width="980" height="330" rx="24" fill="#fff" stroke="#c8d9ef" stroke-width="6"/>
+  <path d="M80 300L600 120l520 180z" fill="#073f88"/>
+  <path d="M160 300L600 150l440 150" fill="none" stroke="#f4b400" stroke-width="22"/>
+  <rect x="180" y="380" width="125" height="240" fill="#f4b400"/><rect x="365" y="355" width="150" height="265" fill="#dbeafe"/><rect x="535" y="355" width="150" height="265" fill="#dbeafe"/><rect x="870" y="380" width="125" height="240" fill="#f4b400"/>
+  <rect x="705" y="430" width="105" height="190" fill="#c8212d"/><circle cx="600" cy="230" r="48" fill="#f4b400" stroke="#fff" stroke-width="8"/>
+  <path d="M0 650c175-70 310 24 505-42 210-71 360 45 695-38v190H0z" fill="#073f88" opacity=".92"/>
+  <text x="600" y="715" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#fff">ST. MARY'S SCHOOL, BUXAR</text>
+</svg>
